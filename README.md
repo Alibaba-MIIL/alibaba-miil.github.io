@@ -1,7 +1,7 @@
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./pics/other_publications.jpg" align="center" width="600" ></td>
+    <td class="tg-c3ow"><img src="./pics/other_publications.jpg" align="center" width="300" ></td>
   </tr>
 </table>
 </p>
