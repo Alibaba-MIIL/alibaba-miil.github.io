@@ -1,3 +1,11 @@
+<p align="center">
+ <table class="tg">
+  <tr>
+    <td class="tg-c3ow"><img src="./pics/other_publications.jpg" align="center" width="600" ></td>
+  </tr>
+</table>
+</p>
+
 #### Asymmetric Loss For Multi-Label Classification (2021)
 [Paper](https://arxiv.org/abs/2009.14119) |
 [Github](https://github.com/Alibaba-MIIL/ASL) |
