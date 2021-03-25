@@ -1,9 +1,5 @@
-<p align="left">
- <table class="tg">
-  <tr>
-    <td class="tg-c3ow"><img src="./pics/other_publications.jpg" align="left" width="250" ></td>
-  </tr>
-</table>
+<p align="center">
+    <img src="./pics/other_publications.jpg" align="left" width="250" >
 </p>
 
 #### Asymmetric Loss For Multi-Label Classification (2021)
