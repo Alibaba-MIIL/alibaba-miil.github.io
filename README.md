@@ -2,7 +2,7 @@
     <img src="./pics/other_publications.jpg" align="left" width="250" >
 </p>
 
-&nbsp;
+<br/><br/>
 
 #### Asymmetric Loss For Multi-Label Classification (2021)
 [Paper](https://arxiv.org/abs/2009.14119) |
