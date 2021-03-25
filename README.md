@@ -1,7 +1,7 @@
 <p align="left">
- <table class="tg">
+ <table class="noborder">
   <tr>
-    <td class="tg-c3ow">
+    <td class="noborder">
         <img src="./pics/other_publications.jpg" align="left" width="250" >
     </td>
   </tr>
