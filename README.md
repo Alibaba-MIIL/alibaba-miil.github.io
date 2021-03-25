@@ -1,8 +1,8 @@
-<p align="left">
+<p align="center">
  <table class="noborder">
   <tr>
     <td class="noborder">
-        <img src="./pics/other_publications.jpg" align="left" width="250" >
+        <img src="./pics/other_publications.jpg" align="center" width="250" >
     </td>
   </tr>
 </table>
