@@ -15,7 +15,7 @@
 [Paper](https://arxiv.org/abs/2009.14119) |
 [Github](https://github.com/Alibaba-MIIL/ASL) |
 
-#### On the Convergence of Deep Networks with Sample Quadratic Overparameterization (2021)
+#### A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks (2021)
 [Paper](https://arxiv.org/pdf/2101.04243.pdf) |
 
 #### HardCoRe-NAS: Hard Constrained diffeRentiable Neural Architecture Search (2021)
