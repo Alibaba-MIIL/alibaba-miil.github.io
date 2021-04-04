@@ -10,6 +10,9 @@
 </p>
 -->
 
+#### An Image is Worth 16x16 Words, What is a Video Worth? (2021)
+[Paper](https://arxiv.org/abs/2103.13915) | 
+[Github](https://github.com/Alibaba-MIIL/STAM) |
 
 #### Asymmetric Loss For Multi-Label Classification (2021)
 [Paper](https://arxiv.org/abs/2009.14119) |
