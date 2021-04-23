@@ -10,6 +10,10 @@
 </p>
 -->
 
+#### ImageNet-21K Pretraining for the Masses (2021)
+[Paper](https://arxiv.org/abs/2104.10972) | 
+[Github](https://github.com/Alibaba-MIIL/ImageNet21K) |
+
 #### An Image is Worth 16x16 Words, What is a Video Worth? (2021)
 [Paper](https://arxiv.org/abs/2103.13915) | 
 [Github](https://github.com/Alibaba-MIIL/STAM) |
