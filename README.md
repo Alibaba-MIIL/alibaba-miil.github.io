@@ -10,6 +10,10 @@
 </p>
 -->
 
+#### Semantic Diversity Learning for Zero-Shot Multi-label Classification (2021)
+[Paper](https://arxiv.org/abs/2105.05926) | 
+[Github](https://github.com/Alibaba-MIIL/ZS_SDL) |
+
 #### ImageNet-21K Pretraining for the Masses (2021)
 [Paper](https://arxiv.org/abs/2104.10972) | 
 [Github](https://github.com/Alibaba-MIIL/ImageNet21K) |
