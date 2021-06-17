@@ -29,7 +29,7 @@
 #### A Convergence Theory Towards Practical Over-parameterized Deep Neural Networks (2021)
 [Paper](https://arxiv.org/pdf/2101.04243.pdf) |
 
-#### HardCoRe-NAS: Hard Constrained diffeRentiable Neural Architecture Search (2021)
+#### HardCoRe-NAS: Hard Constrained diffeRentiable Neural Architecture Search (ICML, 2021)
 [Paper](https://arxiv.org/abs/2102.11646) |
 [Github](https://github.com/Alibaba-MIIL/HardCoReNAS) |
 
