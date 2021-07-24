@@ -10,7 +10,7 @@
 </p>
 -->
 
-#### Semantic Diversity Learning for Zero-Shot Multi-label Classification (2021)
+#### Semantic Diversity Learning for Zero-Shot Multi-label Classification (ICCV, 2021)
 [Paper](https://arxiv.org/abs/2105.05926) | 
 [Github](https://github.com/Alibaba-MIIL/ZS_SDL) |
 
@@ -22,7 +22,7 @@
 [Paper](https://arxiv.org/abs/2103.13915) | 
 [Github](https://github.com/Alibaba-MIIL/STAM) |
 
-#### Asymmetric Loss For Multi-Label Classification (2021)
+#### Asymmetric Loss For Multi-Label Classification (ICCV, 2021)
 [Paper](https://arxiv.org/abs/2009.14119) |
 [Github](https://github.com/Alibaba-MIIL/ASL) |
 
