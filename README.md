@@ -10,6 +10,18 @@
 </p>
 -->
 
+#### ML-Decoder: Scalable and Versatile Classification Head (2021)
+[Paper](http://arxiv.org/abs/2111.12933) | 
+[Github](https://github.com/Alibaba-MIIL/ML_Decoder) |
+
+#### Multi-label Classification with Partial Annotations using Class-aware Selective Loss (2021)
+[Paper](https://arxiv.org/abs/2110.10955) | 
+[Github](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
+
+#### IQNAS: Interpretable Integer Quadratic programming Neural Architecture Search (2021)
+[Paper](https://arxiv.org/abs/2110.12399) | 
+[Github](https://github.com/Alibaba-MIIL/IQNAS) |
+
 #### Semantic Diversity Learning for Zero-Shot Multi-label Classification (ICCV, 2021)
 [Paper](https://arxiv.org/abs/2105.05926) | 
 [Github](https://github.com/Alibaba-MIIL/ZS_SDL) |
