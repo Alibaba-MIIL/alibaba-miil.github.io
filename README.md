@@ -10,13 +10,36 @@
 </p>
 -->
 
+#### BINAS: Bilinear Interpretable Neural Architecture Search (2022)
+[Paper](https://arxiv.org/abs/2110.12399) | 
+[Github](https://github.com/alibaba-miil/binas) |
+
+#### It's All in the Head: Representation Knowledge Distillation through Classifier Sharing (2022)
+[Paper](https://arxiv.org/abs/2201.06945) | 
+[Github](https://github.com/Alibaba-MIIL/HeadSharingKD) |
+
+#### End-to-End Audio Strikes Back: Boosting Augmentations Towards An Efficient Audio Classification Network (2022)
+[Paper](https://arxiv.org/abs/2204.11479) | 
+[Github](https://github.com/Alibaba-MIIL/AudioClassfication) |
+
+#### Diverse Imagenet Models Transfer Better (2022)
+[Paper](https://arxiv.org/abs/2204.09134) |
+
+#### Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results (2022)
+[Paper](https://arxiv.org/abs/2204.03475) | 
+[Github](https://github.com/Alibaba-MIIL/Solving_ImageNet) |
+
+#### Multi-label Classification with Partial Annotations using Class-aware Selective Loss (CVPR, 2022)
+[Paper](https://arxiv.org/abs/2110.10955) | 
+[Github](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
+
+#### PETA: Photo Albums Event Recognition using Transformers Attention (ICPR, 2022)
+[Paper](https://arxiv.org/abs/2109.12499) | 
+[Github](https://github.com/alibaba-miil/peta) |
+
 #### ML-Decoder: Scalable and Versatile Classification Head (2021)
 [Paper](http://arxiv.org/abs/2111.12933) | 
 [Github](https://github.com/Alibaba-MIIL/ML_Decoder) |
-
-#### Multi-label Classification with Partial Annotations using Class-aware Selective Loss (2021)
-[Paper](https://arxiv.org/abs/2110.10955) | 
-[Github](https://github.com/Alibaba-MIIL/PartialLabelingCSL) |
 
 #### IQNAS: Interpretable Integer Quadratic programming Neural Architecture Search (2021)
 [Paper](https://arxiv.org/abs/2110.12399) | 
